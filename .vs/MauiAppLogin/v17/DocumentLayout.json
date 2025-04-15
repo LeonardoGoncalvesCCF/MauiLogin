@@ -1,7 +1,32 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\leonardo\\source\\repos\\MauiAppLogin\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF95FD2A-C5C9-4F60-9441-3F6FE5CCF55A}|MauiAppLogin\\MauiAppLogin.csproj|c:\\users\\leonardo\\source\\repos\\mauiapplogin\\mauiapplogin\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CF95FD2A-C5C9-4F60-9441-3F6FE5CCF55A}|MauiAppLogin\\MauiAppLogin.csproj|solutionrelative:mauiapplogin\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF95FD2A-C5C9-4F60-9441-3F6FE5CCF55A}|MauiAppLogin\\MauiAppLogin.csproj|c:\\users\\leonardo\\source\\repos\\mauiapplogin\\mauiapplogin\\protegida.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CF95FD2A-C5C9-4F60-9441-3F6FE5CCF55A}|MauiAppLogin\\MauiAppLogin.csproj|solutionrelative:mauiapplogin\\protegida.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF95FD2A-C5C9-4F60-9441-3F6FE5CCF55A}|MauiAppLogin\\MauiAppLogin.csproj|c:\\users\\leonardo\\source\\repos\\mauiapplogin\\mauiapplogin\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CF95FD2A-C5C9-4F60-9441-3F6FE5CCF55A}|MauiAppLogin\\MauiAppLogin.csproj|solutionrelative:mauiapplogin\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF95FD2A-C5C9-4F60-9441-3F6FE5CCF55A}|MauiAppLogin\\MauiAppLogin.csproj|c:\\users\\leonardo\\source\\repos\\mauiapplogin\\mauiapplogin\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF95FD2A-C5C9-4F60-9441-3F6FE5CCF55A}|MauiAppLogin\\MauiAppLogin.csproj|solutionrelative:mauiapplogin\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\leonardo\\source\\repos\\MauiAppLogin\\MauiAppLogin\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MauiAppLogin\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF95FD2A-C5C9-4F60-9441-3F6FE5CCF55A}|MauiAppLogin\\MauiAppLogin.csproj|c:\\users\\leonardo\\source\\repos\\mauiapplogin\\mauiapplogin\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF95FD2A-C5C9-4F60-9441-3F6FE5CCF55A}|MauiAppLogin\\MauiAppLogin.csproj|solutionrelative:mauiapplogin\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +34,91 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\leonardo\\source\\repos\\MauiAppLogin\\MauiAppLogin\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MauiAppLogin\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\leonardo\\source\\repos\\MauiAppLogin\\MauiAppLogin\\MainPage.xaml",
+              "RelativeToolTip": "MauiAppLogin\\MainPage.xaml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-15T12:18:27.089Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\leonardo\\source\\repos\\MauiAppLogin\\MauiAppLogin\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MauiAppLogin\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\leonardo\\source\\repos\\MauiAppLogin\\MauiAppLogin\\MainPage.xaml.cs",
+              "RelativeToolTip": "MauiAppLogin\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T12:18:34.41Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "C:\\Users\\leonardo\\source\\repos\\MauiAppLogin\\MauiAppLogin\\Login.xaml",
+              "RelativeDocumentMoniker": "MauiAppLogin\\Login.xaml",
+              "ToolTip": "C:\\Users\\leonardo\\source\\repos\\MauiAppLogin\\MauiAppLogin\\Login.xaml",
+              "RelativeToolTip": "MauiAppLogin\\Login.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-15T18:18:19.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Protegida.xaml",
+              "DocumentMoniker": "C:\\Users\\leonardo\\source\\repos\\MauiAppLogin\\MauiAppLogin\\Protegida.xaml",
+              "RelativeDocumentMoniker": "MauiAppLogin\\Protegida.xaml",
+              "ToolTip": "C:\\Users\\leonardo\\source\\repos\\MauiAppLogin\\MauiAppLogin\\Protegida.xaml",
+              "RelativeToolTip": "MauiAppLogin\\Protegida.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-15T18:17:45.295Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.g.i.cs",
+              "DocumentMoniker": "C:\\Users\\leonardo\\source\\repos\\MauiAppLogin\\MauiAppLogin\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeDocumentMoniker": "MauiAppLogin\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ToolTip": "C:\\Users\\leonardo\\source\\repos\\MauiAppLogin\\MauiAppLogin\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeToolTip": "MauiAppLogin\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAADwv0QAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T12:38:20.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\leonardo\\source\\repos\\MauiAppLogin\\MauiAppLogin\\App.xaml.cs",
+              "RelativeDocumentMoniker": "MauiAppLogin\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\leonardo\\source\\repos\\MauiAppLogin\\MauiAppLogin\\App.xaml.cs",
+              "RelativeToolTip": "MauiAppLogin\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T12:20:38.335Z",
+              "EditorCaption": ""
             }
           ]
         }
